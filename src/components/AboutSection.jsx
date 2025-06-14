@@ -16,7 +16,7 @@ export const AboutSection = () => {
             </h3>
 
             <p className="text-muted-foreground">
-             Passionate UI/UX Engineer crafting user-friendly and visually engaging digital experiences through thoughtful design.
+            Passionate UI/UX Engineer crafting user-friendly and visually engaging digital experiences through thoughtful design
             </p>
 
             <p className="text-muted-foreground">
